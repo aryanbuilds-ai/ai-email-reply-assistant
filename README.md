@@ -30,7 +30,19 @@ The workflow uses Make.com to connect Gmail with Google Gemini, allowing incomin
 
 ## Workflow Screenshots
 
-Screenshots of the automation workflow will be added here.
+### 1. Automation Workflow
+
+![Make.com Workflow](Screenshot%202026-11-24%20160357.png)
+
+### 2. Generated Email Draft
+
+![Generated Gmail Draft](Screenshot%20%28176%29.png)
+
+
+### Video Demonstration
+
+[Watch the project demo on YouTube](https://youtu.be/DXzrnO0S7rc?si=ZpTVS8LjGueUsYIf)
+
 
 ## Future Improvements
 
